@@ -1,0 +1,4 @@
+This is now a new story
+And this is the second line
+This is a new line in my new story
+The end.

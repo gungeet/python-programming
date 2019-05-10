@@ -1,0 +1,3091 @@
+[
+    {
+        "created_at": "Wed May 01 22:50:25 +0000 2019",
+        "id": 1123721364509212672,
+        "id_str": "1123721364509212672",
+        "text": "\ud83d\ude4c The three keys to the win that brings us closer to the final\n\ud83d\udd35\ud83d\udd34 #For\u00e7aBar\u00e7a",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "For\u00e7aBar\u00e7a",
+                    "indices": [
+                        66,
+                        77
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://media.twitter.com\" rel=\"nofollow\">Twitter VIT App for iOS</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 62,
+        "favorite_count": 601,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 22:31:02 +0000 2019",
+        "id": 1123716487766786055,
+        "id_str": "1123716487766786055",
+        "text": "\ud83d\udd1d Nights like this wouldn't be possible without you! \ud83d\ude4c\nThanks, Bar\u00e7a Fans! \ud83d\udc99\u2764 https://t.co/uAAaQbotZp",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1123716437288394758,
+                    "id_str": "1123716437288394758",
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5g-JJrXkAwBkY0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5g-JJrXkAwBkY0.jpg",
+                    "url": "https://t.co/uAAaQbotZp",
+                    "display_url": "pic.twitter.com/uAAaQbotZp",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123716487766786055/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1123716437288394758,
+                    "id_str": "1123716437288394758",
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5g-JJrXkAwBkY0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5g-JJrXkAwBkY0.jpg",
+                    "url": "https://t.co/uAAaQbotZp",
+                    "display_url": "pic.twitter.com/uAAaQbotZp",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123716487766786055/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "duration_millis": 16861,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1123716437288394758/pl/nbsarR0vMdgSmiMi.m3u8?tag=12"
+                            },
+                            {
+                                "bitrate": 432000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1123716437288394758/vid/320x320/avTFKVWDUb2r0kKx.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1123716437288394758/vid/480x480/IFhxXJtmYsGHqDcq.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 1280000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1123716437288394758/vid/720x720/hBulRNgFzkUQHvMG.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": true
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 748,
+        "favorite_count": 4654,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 22:20:04 +0000 2019",
+        "id": 1123713726119591938,
+        "id_str": "1123713726119591938",
+        "text": "MATCH REPORT!\nhttps://t.co/hliN47Nj4g",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/hliN47Nj4g",
+                    "expanded_url": "http://ow.ly/rzp750tG7GA",
+                    "display_url": "ow.ly/rzp750tG7GA",
+                    "indices": [
+                        14,
+                        37
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 294,
+        "favorite_count": 2561,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 22:07:47 +0000 2019",
+        "id": 1123710635362136064,
+        "id_str": "1123710635362136064",
+        "text": "RT @jmbartomeu: #Messi600\nAnother achievement on an unforgettable night. \nA genius. A figure that will never be seen again in the world of\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Messi600",
+                    "indices": [
+                        16,
+                        25
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jmbartomeu",
+                    "name": "Josep Maria Bartomeu",
+                    "id": 2307173610,
+                    "id_str": "2307173610",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed May 01 22:04:37 +0000 2019",
+            "id": 1123709837874028544,
+            "id_str": "1123709837874028544",
+            "text": "#Messi600\nAnother achievement on an unforgettable night. \nA genius. A figure that will never be seen again in the w\u2026 https://t.co/a3QR5KwBfy",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Messi600",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/a3QR5KwBfy",
+                        "expanded_url": "https://twitter.com/i/web/status/1123709837874028544",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2307173610,
+                "id_str": "2307173610",
+                "name": "Josep Maria Bartomeu",
+                "screen_name": "jmbartomeu",
+                "location": "",
+                "description": "President del FC Barcelona",
+                "url": "https://t.co/MM4Z6MTD9p",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/MM4Z6MTD9p",
+                                "expanded_url": "http://fcbarcelona.cat",
+                                "display_url": "fcbarcelona.cat",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 473697,
+                "friends_count": 23,
+                "listed_count": 898,
+                "created_at": "Thu Jan 23 20:15:01 +0000 2014",
+                "favourites_count": 496,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 2581,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EFEFEF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1039186996508413952/WrurmhBj_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039186996508413952/WrurmhBj_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2307173610/1437410418",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1176,
+            "favorite_count": 6811,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1176,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 21:56:12 +0000 2019",
+        "id": 1123707718857056266,
+        "id_str": "1123707718857056266",
+        "text": "The first of 600 \u26bd\n\ud83d\udd19 Leo's 1st official goal came 14 years ago today \ud83d\udc10\n#Messi600 https://t.co/PYPt74qxeU",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Messi600",
+                    "indices": [
+                        71,
+                        80
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1123707629363240961,
+                    "id_str": "1123707629363240961",
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5g2IdcXoAIVLRn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5g2IdcXoAIVLRn.jpg",
+                    "url": "https://t.co/PYPt74qxeU",
+                    "display_url": "pic.twitter.com/PYPt74qxeU",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123707718857056266/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1123707629363240961,
+                    "id_str": "1123707629363240961",
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5g2IdcXoAIVLRn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5g2IdcXoAIVLRn.jpg",
+                    "url": "https://t.co/PYPt74qxeU",
+                    "display_url": "pic.twitter.com/PYPt74qxeU",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123707718857056266/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "duration_millis": 44440,
+                        "variants": [
+                            {
+                                "bitrate": 1280000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1123707629363240961/vid/720x720/9iJJqZ2fZbu8lyE3.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 432000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1123707629363240961/vid/320x320/N2rZaYiuh3gbRarf.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1123707629363240961/vid/480x480/oNrMHCo4rqtem0sI.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1123707629363240961/pl/CgrcdiwkbF5DPHJ6.m3u8?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "Messi's first official goal for FC Barcelona",
+                        "monetizable": true
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2788,
+        "favorite_count": 11430,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 21:41:51 +0000 2019",
+        "id": 1123704107418693634,
+        "id_str": "1123704107418693634",
+        "text": "Left foot blau. \ud83d\udd35\nRight foot grana. \ud83d\udd34 https://t.co/Liuc65y6z3",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1123703844117123072,
+                    "id_str": "1123703844117123072",
+                    "indices": [
+                        38,
+                        61
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5gysU1XkAAYYeV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5gysU1XkAAYYeV.jpg",
+                    "url": "https://t.co/Liuc65y6z3",
+                    "display_url": "pic.twitter.com/Liuc65y6z3",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123704107418693634/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 658,
+                            "h": 822,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 658,
+                            "h": 822,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1123703844117123072,
+                    "id_str": "1123703844117123072",
+                    "indices": [
+                        38,
+                        61
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5gysU1XkAAYYeV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5gysU1XkAAYYeV.jpg",
+                    "url": "https://t.co/Liuc65y6z3",
+                    "display_url": "pic.twitter.com/Liuc65y6z3",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123704107418693634/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 658,
+                            "h": 822,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 658,
+                            "h": 822,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 895,
+        "favorite_count": 7112,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 21:31:16 +0000 2019",
+        "id": 1123701443389788166,
+        "id_str": "1123701443389788166",
+        "text": "#Messi600 \n\ud83d\udd1d Without limits \n\ud83d\ude31 Unbelievable! https://t.co/rhjTjgJHHc",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Messi600",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1123701338825736192,
+                    "id_str": "1123701338825736192",
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5gwaTxW4AgHXcm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5gwaTxW4AgHXcm.jpg",
+                    "url": "https://t.co/rhjTjgJHHc",
+                    "display_url": "pic.twitter.com/rhjTjgJHHc",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123701443389788166/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1123701338825736192,
+                    "id_str": "1123701338825736192",
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5gwaTxW4AgHXcm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5gwaTxW4AgHXcm.jpg",
+                    "url": "https://t.co/rhjTjgJHHc",
+                    "display_url": "pic.twitter.com/rhjTjgJHHc",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123701443389788166/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 60000,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1123701338825736192/pl/Fw_Gu60jYHvJTPYD.m3u8?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1123701338825736192/vid/640x360/1UxTSElfmYhxLD6j.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1123701338825736192/vid/320x180/CJK9YJRpBEQr42Cb.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1123701338825736192/vid/1280x720/DvlsOfWVnoh0xw8a.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "Messi vs Other leading scorers at top european clubs",
+                        "monetizable": true
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3029,
+        "favorite_count": 10309,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 21:25:13 +0000 2019",
+        "id": 1123699922052755456,
+        "id_str": "1123699922052755456",
+        "text": "Machine wash warm. Tumble dry low. https://t.co/R7TQ1pl9jw",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1123699001562415106,
+                    "id_str": "1123699001562415106",
+                    "indices": [
+                        35,
+                        58
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5guSc6WwAI1NQy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5guSc6WwAI1NQy.jpg",
+                    "url": "https://t.co/R7TQ1pl9jw",
+                    "display_url": "pic.twitter.com/R7TQ1pl9jw",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123699922052755456/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1123699001562415106,
+                    "id_str": "1123699001562415106",
+                    "indices": [
+                        35,
+                        58
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5guSc6WwAI1NQy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5guSc6WwAI1NQy.jpg",
+                    "url": "https://t.co/R7TQ1pl9jw",
+                    "display_url": "pic.twitter.com/R7TQ1pl9jw",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123699922052755456/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1778,
+        "favorite_count": 11289,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 21:18:51 +0000 2019",
+        "id": 1123698318998212608,
+        "id_str": "1123698318998212608",
+        "text": "What's all the hoopla about \ud83e\udd2d https://t.co/7VmdEZ7pX9",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1123698189922652162,
+                    "id_str": "1123698189922652162",
+                    "indices": [
+                        30,
+                        53
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5gtjNUW0AI0STr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5gtjNUW0AI0STr.jpg",
+                    "url": "https://t.co/7VmdEZ7pX9",
+                    "display_url": "pic.twitter.com/7VmdEZ7pX9",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123698318998212608/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 853,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1123698189922652162,
+                    "id_str": "1123698189922652162",
+                    "indices": [
+                        30,
+                        53
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5gtjNUW0AI0STr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5gtjNUW0AI0STr.jpg",
+                    "url": "https://t.co/7VmdEZ7pX9",
+                    "display_url": "pic.twitter.com/7VmdEZ7pX9",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123698318998212608/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 853,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2126,
+        "favorite_count": 13025,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 21:15:02 +0000 2019",
+        "id": 1123697358754152449,
+        "id_str": "1123697358754152449",
+        "text": "MAN. OF. THE. MATCH.\n\n#Messi\n\nSurprised? https://t.co/X3kfcbCaAh",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Messi",
+                    "indices": [
+                        22,
+                        28
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1123697213916483584,
+                    "id_str": "1123697213916483584",
+                    "indices": [
+                        41,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5gsqZaWkAAIaRh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5gsqZaWkAAIaRh.jpg",
+                    "url": "https://t.co/X3kfcbCaAh",
+                    "display_url": "pic.twitter.com/X3kfcbCaAh",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123697358754152449/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 545,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 961,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1025,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1123697213916483584,
+                    "id_str": "1123697213916483584",
+                    "indices": [
+                        41,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5gsqZaWkAAIaRh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5gsqZaWkAAIaRh.jpg",
+                    "url": "https://t.co/X3kfcbCaAh",
+                    "display_url": "pic.twitter.com/X3kfcbCaAh",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123697358754152449/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 545,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 961,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1025,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6783,
+        "favorite_count": 31346,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 21:12:52 +0000 2019",
+        "id": 1123696813125533697,
+        "id_str": "1123696813125533697",
+        "text": "Rate your happiness right now",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 510,
+        "favorite_count": 3283,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 21:12:16 +0000 2019",
+        "id": 1123696663615373315,
+        "id_str": "1123696663615373315",
+        "text": "match summary: https://t.co/eR3Gv8NSsD",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1123696439765405697,
+                    "id_str": "1123696439765405697",
+                    "indices": [
+                        15,
+                        38
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1123696439765405697/pu/img/d8hoqZc42htyNCt3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1123696439765405697/pu/img/d8hoqZc42htyNCt3.jpg",
+                    "url": "https://t.co/eR3Gv8NSsD",
+                    "display_url": "pic.twitter.com/eR3Gv8NSsD",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123696663615373315/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1560,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 314,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 554,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1123696439765405697,
+                    "id_str": "1123696439765405697",
+                    "indices": [
+                        15,
+                        38
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1123696439765405697/pu/img/d8hoqZc42htyNCt3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1123696439765405697/pu/img/d8hoqZc42htyNCt3.jpg",
+                    "url": "https://t.co/eR3Gv8NSsD",
+                    "display_url": "pic.twitter.com/eR3Gv8NSsD",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123696663615373315/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1560,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 314,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 554,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            6,
+                            13
+                        ],
+                        "duration_millis": 4941,
+                        "variants": [
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1123696439765405697/pu/vid/720x1560/YCMEWM0I-cUh1MfP.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1123696439765405697/pu/vid/320x692/wcgbwlGbQq4NAH5p.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1123696439765405697/pu/pl/_6C0TRBd98id6vKN.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1123696439765405697/pu/vid/360x780/CLJeaLCb6n9hDWRp.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2991,
+        "favorite_count": 16564,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 21:06:10 +0000 2019",
+        "id": 1123695128672075776,
+        "id_str": "1123695128672075776",
+        "text": "Heart still pounding? \n\nBar\u00e7a 3 - 0 Liverpool, AS IT HAPPENED!\n\n\ud83d\udc49 https://t.co/4eegA7rQK9 https://t.co/iUkyUBOMaN",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/4eegA7rQK9",
+                    "expanded_url": "http://ow.ly/ePrD30oBF2L",
+                    "display_url": "ow.ly/ePrD30oBF2L",
+                    "indices": [
+                        66,
+                        89
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1123694664421453824,
+                    "id_str": "1123694664421453824",
+                    "indices": [
+                        90,
+                        113
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5gqV_zXsAArZib.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5gqV_zXsAArZib.jpg",
+                    "url": "https://t.co/iUkyUBOMaN",
+                    "display_url": "pic.twitter.com/iUkyUBOMaN",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123695128672075776/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 853,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1123694664421453824,
+                    "id_str": "1123694664421453824",
+                    "indices": [
+                        90,
+                        113
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5gqV_zXsAArZib.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5gqV_zXsAArZib.jpg",
+                    "url": "https://t.co/iUkyUBOMaN",
+                    "display_url": "pic.twitter.com/iUkyUBOMaN",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123695128672075776/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 853,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1839,
+        "favorite_count": 10079,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "nl"
+    },
+    {
+        "created_at": "Wed May 01 20:58:32 +0000 2019",
+        "id": 1123693207852916736,
+        "id_str": "1123693207852916736",
+        "text": "THERE'S THE WHISTLE! \nWHAT A NIGHT!\n#WeColorFootball! https://t.co/J8aMZF7JBh",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "WeColorFootball",
+                    "indices": [
+                        36,
+                        52
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1123692841484607488,
+                    "id_str": "1123692841484607488",
+                    "indices": [
+                        54,
+                        77
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5gor41W4AAl4jD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5gor41W4AAl4jD.jpg",
+                    "url": "https://t.co/J8aMZF7JBh",
+                    "display_url": "pic.twitter.com/J8aMZF7JBh",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123693207852916736/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1123692841484607488,
+                    "id_str": "1123692841484607488",
+                    "indices": [
+                        54,
+                        77
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5gor41W4AAl4jD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5gor41W4AAl4jD.jpg",
+                    "url": "https://t.co/J8aMZF7JBh",
+                    "display_url": "pic.twitter.com/J8aMZF7JBh",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123693207852916736/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6284,
+        "favorite_count": 18987,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 20:54:23 +0000 2019",
+        "id": 1123692162070269953,
+        "id_str": "1123692162070269953",
+        "text": "Who else is feeling like this right about now? \ud83d\udcaa\ud83d\udcaa! https://t.co/N7oLqXWkqr",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1123692074749112322,
+                    "id_str": "1123692074749112322",
+                    "indices": [
+                        51,
+                        74
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5gn_QhXsAI5Ava.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5gn_QhXsAI5Ava.jpg",
+                    "url": "https://t.co/N7oLqXWkqr",
+                    "display_url": "pic.twitter.com/N7oLqXWkqr",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123692162070269953/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1123692074749112322,
+                    "id_str": "1123692074749112322",
+                    "indices": [
+                        51,
+                        74
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D5gn_QhXsAI5Ava.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D5gn_QhXsAI5Ava.jpg",
+                    "url": "https://t.co/N7oLqXWkqr",
+                    "display_url": "pic.twitter.com/N7oLqXWkqr",
+                    "expanded_url": "https://twitter.com/FCBarcelona/status/1123692162070269953/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2767,
+        "favorite_count": 15578,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 20:52:55 +0000 2019",
+        "id": 1123691795836280833,
+        "id_str": "1123691795836280833",
+        "text": "\ud83c\udfa5\ud83d\ude31 What a goal from the Argentine!\n\ud83d\udd35\ud83d\udd34 #For\u00e7aBar\u00e7a",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "For\u00e7aBar\u00e7a",
+                    "indices": [
+                        38,
+                        49
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://media.twitter.com\" rel=\"nofollow\">Twitter VIT App for iOS</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 757,
+        "favorite_count": 6069,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 20:46:19 +0000 2019",
+        "id": 1123690132480172034,
+        "id_str": "1123690132480172034",
+        "text": "DOUBLE STOP ON THE GOAL LINE! \ud83d\uded1\nDOUBLE STOP ON THE GOAL LINE! \ud83d\uded1",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1793,
+        "favorite_count": 10467,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 01 20:45:23 +0000 2019",
+        "id": 1123689897813053440,
+        "id_str": "1123689897813053440",
+        "text": "600 GOALS 600 GOALS 600 GOALS 600 GOALS\n600 GOALS 600 GOALS 600 GOALS 600 GOALS\n600 GOALS 600 GOALS 600 GOALS 600 G\u2026 https://t.co/IdPuOiMTZp",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/IdPuOiMTZp",
+                    "expanded_url": "https://twitter.com/i/web/status/1123689897813053440",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 22473,
+        "favorite_count": 52238,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "nl"
+    },
+    {
+        "created_at": "Wed May 01 20:44:01 +0000 2019",
+        "id": 1123689554962264064,
+        "id_str": "1123689554962264064",
+        "text": "MESSIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII\u2026 https://t.co/XOZfXZHYpm",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/XOZfXZHYpm",
+                    "expanded_url": "https://twitter.com/i/web/status/1123689554962264064",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9344,
+        "favorite_count": 35974,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+    },
+    {
+        "created_at": "Wed May 01 20:37:06 +0000 2019",
+        "id": 1123687814170857475,
+        "id_str": "1123687814170857475",
+        "text": "GOAL #MESSI! GOAL #MESSI! GOAL #MESSI! GOAL #MESSI! GOAL #MESSI! GOAL #MESSI! GOAL #MESSI! GOAL #MESSI! GOAL #MESSI\u2026 https://t.co/FkeBSJ0EKp",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MESSI",
+                    "indices": [
+                        5,
+                        11
+                    ]
+                },
+                {
+                    "text": "MESSI",
+                    "indices": [
+                        18,
+                        24
+                    ]
+                },
+                {
+                    "text": "MESSI",
+                    "indices": [
+                        31,
+                        37
+                    ]
+                },
+                {
+                    "text": "MESSI",
+                    "indices": [
+                        44,
+                        50
+                    ]
+                },
+                {
+                    "text": "MESSI",
+                    "indices": [
+                        57,
+                        63
+                    ]
+                },
+                {
+                    "text": "MESSI",
+                    "indices": [
+                        70,
+                        76
+                    ]
+                },
+                {
+                    "text": "MESSI",
+                    "indices": [
+                        83,
+                        89
+                    ]
+                },
+                {
+                    "text": "MESSI",
+                    "indices": [
+                        96,
+                        102
+                    ]
+                },
+                {
+                    "text": "MESSI",
+                    "indices": [
+                        109,
+                        115
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/FkeBSJ0EKp",
+                    "expanded_url": "https://twitter.com/i/web/status/1123687814170857475",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96951800,
+            "id_str": "96951800",
+            "name": "FC Barcelona",
+            "screen_name": "FCBarcelona",
+            "location": "Barcelona",
+            "description": "#For\u00e7aBar\u00e7a! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id, @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+            "url": "https://t.co/tLKuK0LpM4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tLKuK0LpM4",
+                            "expanded_url": "http://www.fcbarcelona.com",
+                            "display_url": "fcbarcelona.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29525376,
+            "friends_count": 85,
+            "listed_count": 31611,
+            "created_at": "Tue Dec 15 09:53:50 +0000 2009",
+            "favourites_count": 2143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 102133,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105086793316290562/ILeD_mpN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1556435246",
+            "profile_link_color": "9B0034",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CBC9C4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7303,
+        "favorite_count": 23444,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "nl"
+    }
+]
